@@ -1,4 +1,5 @@
 pipeline{
     add
     {}
+    subract{}
 }
